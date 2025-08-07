@@ -1,0 +1,4 @@
+1;Jaka jest srednia wieku w grupie skladajacej sie z trzech 4-latkow, czterech 11-latkow, dwoch 12-latkow oraz jednego 20-latka?; A.10 lat;B.5 lat;C.15 lat;D.20lat;a>
+2;Tytulowa bohaterka serialu Netflixa, ktora gra Jenna Ortega to...;A.Tuesday;B.Wednesday;C.Friday;D.Sunday;b>
+3;Ktory z ptakow kuka?;A.samica kukulki;B.samiec kukulki;C.samica jaskolki;D.samiec jaskolki;b>
+4;Dokoncz fragment ballady "Switezianka": "Dochowaj, strzelcze, to moja rada: bo kto przysiege naruszy, ach, biada jemu, za zycia biada...;A.Bedzie ciagany za uszy!";B.Szczernialy zab mu sie skruszy!";C.I biada jego zlej duszy!";D.Kij bedzie nosil kostuszy!";c

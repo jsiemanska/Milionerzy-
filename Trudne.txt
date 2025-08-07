@@ -1,0 +1,4 @@
+1; "Ragdoll" to rasa...;A.kotow;B.psow;C.koni;D.krolikow;a>
+2;W Polsce wychodzimy "po angielsku". Jak wychodza Anglicy?; A.po grecku;B.po polsku;C.po francusku; D.po wlosku;c>
+3;Kto namalowal obrazy: "Kochankowie","Syn czlowieczy","Zdradliwosc obrazow"?;A.Pablo Picasso;B.Rene Magritte;C.Salvador Dali;D.Gustav Klimt;b>
+4;Ile to jest 1111 razy 1111, jesli 1 razy 1 to 1 a 11 razy 11 to 121?;A.12 321;B.111 111 111;C.123 454 321;D.1 234 321;d

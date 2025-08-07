@@ -1,0 +1,4 @@
+1;Jak nazywa sie stolica Albanii?;A.Tirana;B.Skopje;C.Belgrad;D.Kiszyniow;a>
+2;Gdzie odbeda sie Letnie Igrzyska Olimpijskie 2024?;A.Londyn;B.Berlin;C.Paryz;D.Ateny;c>
+3;Jaki jest najwiekszy ocean na Ziemii?;A.Atlantycki;B.Spokojny;C.Indyjski;D.Arktyczny;b>
+4;Jak mial na imie van Gogh?;A.Pablo;B.Salvador;C.Rene;D.Vincent;d
